@@ -1,0 +1,17 @@
+{
+  "name": "practice-automation-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1",
+    "prettier": "3.4.2"
+  }
+}
